@@ -1,0 +1,193 @@
+<mxfile host="lf-coze-web-cdn.coze.cn" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="@DRAWIO-VERSION@">
+  <diagram name="Magic CLI Beta测试计划甘特图" id="gantt-magic-cli-001">
+    <mxGraphModel dx="1688" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="500" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="Magic CLI Beta测试计划甘特图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#1a1a2e;" parent="1" vertex="1">
+          <mxGeometry x="300" y="15" width="400" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="header-bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3f2fd;strokeColor=#bbdefb;" parent="1" vertex="1">
+          <mxGeometry x="200" y="60" width="720" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="week-1" value="第1周" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=11;fontColor=#1565c0;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="60" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="week-2" value="第2周" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=11;fontColor=#1565c0;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="60" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="week-3" value="第3周" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=11;fontColor=#1565c0;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="60" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="week-4" value="第4周" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=11;fontColor=#1565c0;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="60" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="week-5" value="第5周" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=11;fontColor=#1565c0;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="60" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="week-6" value="第6周" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=11;fontColor=#1565c0;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="60" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="task-col-bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fafafa;strokeColor=#e0e0e0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="60" width="180" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="task-header" value="测试阶段" style="text;html=1;strokeColor=none;fillColor=#e3f2fd;align=center;verticalAlign=middle;fontSize=11;fontStyle=1;fontColor=#1565c0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="60" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="phase-1" value="准备阶段" style="text;html=1;strokeColor=none;fillColor=#e8f5e9;align=left;verticalAlign=middle;fontSize=10;fontStyle=1;fontColor=#2e7d32;spacingLeft=8;" parent="1" vertex="1">
+          <mxGeometry x="20" y="95" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="task-1-1" value="  环境搭建" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=9;fontColor=#424242;spacingLeft=12;" parent="1" vertex="1">
+          <mxGeometry x="20" y="123" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="task-1-2" value="  用例准备" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=9;fontColor=#424242;spacingLeft=12;" parent="1" vertex="1">
+          <mxGeometry x="20" y="149" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="phase-2" value="测试阶段1" style="text;html=1;strokeColor=none;fillColor=#e3f2fd;align=left;verticalAlign=middle;fontSize=10;fontStyle=1;fontColor=#1565c0;spacingLeft=8;" parent="1" vertex="1">
+          <mxGeometry x="20" y="175" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="task-2-1" value="  AI CLI基本功能验证" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=9;fontColor=#424242;spacingLeft=12;" parent="1" vertex="1">
+          <mxGeometry x="20" y="203" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="task-2-2" value="  suggest/ask/search等测试" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=9;fontColor=#424242;spacingLeft=12;" parent="1" vertex="1">
+          <mxGeometry x="20" y="229" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="phase-3" value="测试阶段2" style="text;html=1;strokeColor=none;fillColor=#fff3e0;align=left;verticalAlign=middle;fontSize=10;fontStyle=1;fontColor=#ef6c00;spacingLeft=8;" parent="1" vertex="1">
+          <mxGeometry x="20" y="255" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="task-3-1" value="  自然语言质量提升" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=9;fontColor=#424242;spacingLeft=12;" parent="1" vertex="1">
+          <mxGeometry x="20" y="283" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="task-3-2" value="完成任务质量提升" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=9;fontColor=#424242;spacingLeft=12;" parent="1" vertex="1">
+          <mxGeometry x="20" y="309" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="phase-4" value="收尾阶段" style="text;html=1;strokeColor=none;fillColor=#fce4ec;align=left;verticalAlign=middle;fontSize=10;fontStyle=1;fontColor=#c2185b;spacingLeft=8;" parent="1" vertex="1">
+          <mxGeometry x="20" y="335" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="task-4-1" value="  持续回归测试" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=9;fontColor=#424242;spacingLeft=12;" parent="1" vertex="1">
+          <mxGeometry x="20" y="363" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="grid-v1" value="" style="endArrow=none;html=1;strokeColor=#e0e0e0;strokeWidth=1;dashed=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="400" as="sourcePoint" />
+            <mxPoint x="320" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grid-v2" value="" style="endArrow=none;html=1;strokeColor=#e0e0e0;strokeWidth=1;dashed=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grid-v3" value="" style="endArrow=none;html=1;strokeColor=#e0e0e0;strokeWidth=1;dashed=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="400" as="sourcePoint" />
+            <mxPoint x="560" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grid-v4" value="" style="endArrow=none;html=1;strokeColor=#e0e0e0;strokeWidth=1;dashed=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="400" as="sourcePoint" />
+            <mxPoint x="680" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grid-v5" value="" style="endArrow=none;html=1;strokeColor=#e0e0e0;strokeWidth=1;dashed=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="400" as="sourcePoint" />
+            <mxPoint x="800" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bar-1-1" value="环境搭建" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4caf50;strokeColor=#2e7d32;fontColor=#ffffff;fontSize=9;arcSize=20;" parent="1" vertex="1">
+          <mxGeometry x="200" y="126" width="100" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="bar-1-2" value="用例准备" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4caf50;strokeColor=#2e7d32;fontColor=#ffffff;fontSize=9;arcSize=20;" parent="1" vertex="1">
+          <mxGeometry x="220" y="152" width="80" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="bar-2-1" value="基本功能验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2196f3;strokeColor=#1565c0;fontColor=#ffffff;fontSize=9;arcSize=20;" parent="1" vertex="1">
+          <mxGeometry x="320" y="206" width="240" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="bar-2-2" value="核心功能测试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2196f3;strokeColor=#1565c0;fontColor=#ffffff;fontSize=9;arcSize=20;" parent="1" vertex="1">
+          <mxGeometry x="350" y="232" width="200" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="bar-3-1" value="AI工具质量提升" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff9800;strokeColor=#ef6c00;fontColor=#ffffff;fontSize=9;arcSize=20;" parent="1" vertex="1">
+          <mxGeometry x="560" y="286" width="240" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="bar-4-1" value="回归收敛" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e91e63;strokeColor=#c2185b;fontColor=#ffffff;fontSize=9;arcSize=20;" parent="1" vertex="1">
+          <mxGeometry x="800" y="366" width="120" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ms-1-icon" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d32f2f;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="304" y="180" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="ms-1-label" value="测试启动" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=8;fontColor=#d32f2f;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="318" y="176" width="50" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="ms-2-icon" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d32f2f;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="544" y="260" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="ms-2-label" value="基本功能完善" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=8;fontColor=#d32f2f;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="558" y="256" width="50" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="ms-3-icon" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d32f2f;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="784" y="340" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="ms-3-label" value="AI工具质量达标" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=8;fontColor=#d32f2f;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="798" y="336" width="50" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="ms-4-icon" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#9c27b0;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="920" y="395" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="ms-4-label" value="发布就绪" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=8;fontColor=#9c27b0;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="932" y="392" width="50" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-bg" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e0e0e0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="420" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-title" value="图例：" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontStyle=1;fontColor=#424242;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="30" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="leg-1-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4caf50;strokeColor=#2e7d32;" parent="1" vertex="1">
+          <mxGeometry x="75" y="435" width="18" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="leg-1-text" value="准备阶段" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=9;fontColor=#424242;" parent="1" vertex="1">
+          <mxGeometry x="95" y="430" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="leg-2-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2196f3;strokeColor=#1565c0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="435" width="18" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="leg-2-text" value="测试阶段1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=9;fontColor=#424242;" parent="1" vertex="1">
+          <mxGeometry x="170" y="430" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="leg-3-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff9800;strokeColor=#ef6c00;" parent="1" vertex="1">
+          <mxGeometry x="230" y="435" width="18" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="leg-3-text" value="测试阶段2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=9;fontColor=#424242;" parent="1" vertex="1">
+          <mxGeometry x="250" y="430" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="leg-4-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e91e63;strokeColor=#c2185b;" parent="1" vertex="1">
+          <mxGeometry x="310" y="435" width="18" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="leg-4-text" value="收尾阶段" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=9;fontColor=#424242;" parent="1" vertex="1">
+          <mxGeometry x="330" y="430" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="leg-5-box" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d32f2f;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="390" y="435" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="leg-5-text" value="里程碑" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=9;fontColor=#424242;" parent="1" vertex="1">
+          <mxGeometry x="405" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="goal-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;目的：开源包设施就绪&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=8;fontColor=#666666;fontStyle=2;" parent="1" vertex="1">
+          <mxGeometry x="80" y="100" width="120" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="goal-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;目的：基本功能流畅&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=8;fontColor=#666666;fontStyle=2;" parent="1" vertex="1">
+          <mxGeometry x="80" y="180" width="120" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="goal-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;目的：AI工具质量提升&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=8;fontColor=#666666;fontStyle=2;" parent="1" vertex="1">
+          <mxGeometry x="80" y="257" width="120" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="goal-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;&quot;&gt;目的：缺陷收敛清零&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=8;fontColor=#666666;fontStyle=2;" parent="1" vertex="1">
+          <mxGeometry x="80" y="340" width="120" height="18" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
